@@ -1,0 +1,12 @@
+{
+  "name": "github-markdown-auto-open-outline",
+  "version": "1.0.0",
+  "description": "GitHub Markdown Auto Open Outline is a Chrome extension that automatically opens the outline section when you open a Markdown file on GitHub.com. This extension is extremely useful for reading and navigating through Markdown documents.",
+  "main": "content.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["markdown", "github", "auto open", "outline"],
+  "author": "ManfredHu",
+  "license": "MIT"
+}
